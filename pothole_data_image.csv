@@ -1,0 +1,3 @@
+Pothole ID,X-coordinate,Y-coordinate,Confidence Score,Area,Width,Height,Area_Classification,Depth_mono,Pixel Distance,Scale Factor,Depth_Classification,Actual_Depth
+Pothole,275,354,0.95092845,9605,113,85,Low,70.8,57.0,1.161085210261632,Deep,82.20483288652355
+Pothole,214,237,0.82475924,14756,124,119,Medium,53.1,62.0,1.1433361486089324,Deep,60.711149491134314
